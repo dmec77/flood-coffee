@@ -10,6 +10,7 @@
     "grunt-contrib-less": "*",
     "grunt-contrib-watch": "*",
     "grunt-newer": "~0.7.0",
+    "grunt-serve": "^0.1.6",
     "load-grunt-tasks": "*",
     "time-grunt": "*"
   },
